@@ -1,5 +1,5 @@
 <template>
-    <div v-for="event in events">
+    <div v-for="event in events.events">
         <eventTab :event="event"/>
     </div>
 </template>

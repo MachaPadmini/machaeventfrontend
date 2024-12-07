@@ -2,6 +2,7 @@
   
         <div class="eventTab">
           <h3>{{ event.name }}</h3>
+          <img :src='event.banner'/><br/>
           <a>Date: {{ event.date }} </a>
           <a>Time: {{ event.time }} EST</a>
           <br />

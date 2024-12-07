@@ -1,5 +1,5 @@
 <template>
-<h1>Macha's Event Manager</h1>
+<h1>Macha's Event Management</h1>
 </template>
 <script>
 export default{
